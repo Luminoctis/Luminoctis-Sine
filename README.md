@@ -4,7 +4,7 @@
 
 by Laith · [MPL-2.0](LICENSE)
 
-![Luminoctis](assets/preview.png)
+![Luminoctis Home in Transparent mode](assets/screenshots/home.jpg)
 
 ## Install
 
@@ -22,8 +22,6 @@ Without Sine, use the standalone version with a one-click installer: [Luminoctis
 
 ## What it does
 
-![Luminoctis Home in Transparent mode](assets/screenshot.jpg)
-
 **Tabs on top**
 - One tab strip at the top edge of the window; tabs shrink to fit, down to icon squares, so they never hide.
 - Drag to reorder, drop outside to open a new window, drop on the rail to pin.
@@ -35,14 +33,23 @@ Without Sine, use the standalone version with a one-click installer: [Luminoctis
 - Clicking a pin opens the site in a mini-window next to the rail, over the current page.
 - Media tiles: hover for title and controls, click the icon to play/pause.
 
+![A pinned site in a mini-window next to the rail](assets/screenshots/pin.jpg)
+
+<img src="assets/screenshots/media.jpg" alt="The rail with workspaces, pins and media controls" width="280">
+
 **Luminoctis Home**
 - Press **L** on the rail: clock, search, shortcuts, notes (Markdown), LumiTime timer and wallpapers.
+- Scroll down on Home for note boards: checklists with sub-tasks and Markdown notes.
+
+![Note boards on Luminoctis Home](assets/screenshots/notes.jpg)
 
 **Look**
 - Window modes: Opaque, Transparent (desktop shows through with blur) and Wallpaper.
 - 9 palettes — Tokyo Night, Tokyo Night Storm, Catppuccin Mocha, Dracula, Nord, Gruvbox Dark, Rosé Pine, One Dark and GX (neon accent, cut corners) — every colour editable.
 - Rounded, square or slanted tabs; Compacting hides the rail, tab strip or address bar until the mouse reaches the edge.
 - If Windows colour settings break transparency, the mod tells you and fixes them with one click.
+
+![The GX palette](assets/screenshots/gx.jpg)
 
 **Also**
 - Interface sounds (optional).
@@ -51,6 +58,8 @@ Without Sine, use the standalone version with a one-click installer: [Luminoctis
 - A tab opened only to download a file closes itself, like in Chrome.
 
 All settings are in one panel: right-click an empty spot on the side rail → **Luminoctis mod settings**. Changes apply instantly.
+
+![Luminoctis settings](assets/screenshots/settings.jpg)
 
 ## Made with AI
 
