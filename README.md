@@ -22,6 +22,8 @@ Without Sine, use the standalone version with a one-click installer: [Luminoctis
 
 ## What it does
 
+![Luminoctis Home in Transparent mode](assets/screenshot.jpg)
+
 **Tabs on top**
 - One tab strip at the top edge of the window; tabs shrink to fit, down to icon squares, so they never hide.
 - Drag to reorder, drop outside to open a new window, drop on the rail to pin.
