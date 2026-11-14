@@ -10,7 +10,7 @@ by Laith · [MPL-2.0](LICENSE)
 
 1. Install [Sine](https://github.com/CosmoCreeper/Sine) if you don't have it yet.
 2. In Zen open **Settings → Sine Mods → Marketplace**, find **Luminoctis** and click **Install**.
-3. **Restart Zen.**
+3. **Restart Zen.** To open the mod's settings, right-click an empty spot on the side rail → **Luminoctis mod settings**.
 
 Luminoctis uses JavaScript, so restart Zen every time you enable, disable or remove it — switching it without a restart can leave a second copy of the rail and tab strip until the next start.
 Updates come through Sine.
@@ -50,7 +50,7 @@ Without Sine, use the standalone version with a one-click installer: [Luminoctis
 - Hide items in the ⋯ and tab menus.
 - A tab opened only to download a file closes itself, like in Chrome.
 
-All settings are in one panel: right-click the rail → **Luminoctis settings**. Changes apply instantly.
+All settings are in one panel: right-click an empty spot on the side rail → **Luminoctis mod settings**. Changes apply instantly.
 
 ## Made with AI
 
