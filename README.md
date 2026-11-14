@@ -6,6 +6,10 @@ by Laith · [MPL-2.0](LICENSE)
 
 ![Luminoctis Home in Transparent mode](assets/screenshots/home.jpg)
 
+**▶ [Watch the 1-minute overview on YouTube](https://youtu.be/FFGqXpoK90U)**
+
+<a href="https://youtu.be/FFGqXpoK90U"><img src="assets/video.jpg" alt="Luminoctis overview video on YouTube" width="640"></a>
+
 ## Install
 
 1. Install [Sine](https://github.com/CosmoCreeper/Sine) if you don't have it yet.
