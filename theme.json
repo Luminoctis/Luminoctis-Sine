@@ -1,12 +1,12 @@
 {
   "id": "luminoctis",
   "name": "Luminoctis",
-  "description": "Full makeover for Zen: tab strip on top, slim side rail with workspaces, pins and media players, Luminoctis Home (clock, search, shortcuts, notes, focus timer, wallpapers), glass window modes, 9 editable palettes, interface sounds. 10 languages. Uses JavaScript (Sine: enable Allow unsafe JS if installed from a URL).",
-  "author": "Laith",
+  "description": "A full makeover for Zen: tab strip on top, slim side rail with workspaces, pins and media players, Luminoctis Home (clock, search, shortcuts, notes, focus timer, wallpapers), glass window modes, 9 editable palettes and interface sounds. Windows. Restart Zen after enabling or disabling.",
+  "author": "LaithsShadow",
   "version": "1.0.0",
   "homepage": "https://github.com/Luminoctis/Luminoctis-Sine",
-  "image": "",
-  "readme": "README.md",
+  "image": "https://raw.githubusercontent.com/Luminoctis/Luminoctis-Sine/main/assets/preview.png",
+  "readme": "https://raw.githubusercontent.com/Luminoctis/Luminoctis-Sine/main/README.md",
   "style": {
     "chrome": "chrome.css"
   },

@@ -1,24 +1,24 @@
-# Luminoctis
+# Luminoctis for Sine
 
-**A full makeover mod for [Zen Browser](https://zen-browser.app/) on Windows** — a tab strip on top, a slim side rail, a Home page with clock, notes and wallpapers, glass window modes, 9 colour palettes and interface sounds.
+**A full makeover mod for [Zen Browser](https://zen-browser.app/)**, packaged for the [Sine](https://github.com/CosmoCreeper/Sine) mod manager: a tab strip on top, a slim side rail, a Home page with clock, notes and wallpapers, glass window modes, 9 colour palettes and interface sounds.
 
 by Laith · [MPL-2.0](LICENSE)
 
-## Download
+![Luminoctis](assets/preview.png)
 
-**[⬇ Latest release](https://github.com/Luminoctis/Luminoctis/releases/latest)** — download `Luminoctis-Setup-<version>.exe` and run it.
+## Install
 
-1. Close Zen Browser.
-2. Run the installer and pick your Zen profile. It does everything in one click: installs the script loader ([fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig), asks for administrator rights once), copies the mod into the profile and sets the Zen options the mod needs.
-3. Start Zen.
+1. Install [Sine](https://github.com/CosmoCreeper/Sine) if you don't have it yet.
+2. In Zen open **Settings → Sine Mods → Marketplace**, find **Luminoctis** and click **Install**.
+3. **Restart Zen.**
 
-Windows may show *“Windows protected your PC”* — click **More info → Run anyway** (the installer is not code-signed).
+Luminoctis uses JavaScript, so restart Zen every time you enable, disable or remove it — switching it without a restart can leave a second copy of the rail and tab strip until the next start.
+Updates come through Sine.
 
-- **Update:** run the installer of the new version. Your previous files are backed up first.
-- **Uninstall:** run the installer and click **Uninstall**.
-
-**Requirements:** Windows 10 or 11 (glass modes need Windows 11), Zen Browser.
+**Requirements:** Windows 10 or 11 (glass modes need Windows 11), Zen Browser with Sine.
 The interface is available in English, 中文, Español, العربية, Português, Bahasa Indonesia, Français, 日本語, Русский and Deutsch — it follows Zen's language.
+
+Without Sine, use the standalone version with a one-click installer: [Luminoctis](https://github.com/Luminoctis/Luminoctis). Don't install both — they use different script loaders.
 
 ## What it does
 
@@ -50,13 +50,12 @@ The interface is available in English, 中文, Español, العربية, Portugu
 
 All settings are in one panel: right-click the rail → **Luminoctis settings**. Changes apply instantly.
 
-## Without the installer
+## Made with AI
 
-The Zen Mods store version (CSS only, look without scripts) is planned as **Luminoctis Lite**.
-To install by hand from source: close Zen and run `install.cmd` from this repository (`install.cmd -Uninstall` removes the mod).
+This mod was built with the help of an AI coding assistant (Claude), directed and tested by the author. The store listing says so (`"ai": "yes"`).
 
 ## License and name
 
-The code is under the [Mozilla Public License 2.0](LICENSE). `vendor/fx-autoconfig` is third-party code under its own license (MPL-2.0). Sounds and their licenses are listed in [sounds/LICENSE.txt](sounds/LICENSE.txt).
+The code is under the [Mozilla Public License 2.0](LICENSE). Sounds and their licenses are listed in [sounds/LICENSE.txt](sounds/LICENSE.txt).
 
 **Luminoctis™** and its logo are trademarks of Laith and are not licensed under the MPL (section 2.3). Forks and derived projects must use a different name and logo and must not present themselves as Luminoctis — see [TRADEMARKS.md](TRADEMARKS.md).
