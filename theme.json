@@ -3,7 +3,7 @@
   "name": "Luminoctis",
   "description": "A full makeover for Zen: tab strip on top, slim side rail with workspaces, pins and media players, Luminoctis Home (clock, search, shortcuts, notes, focus timer, wallpapers), glass window modes, 9 editable palettes and interface sounds. Windows. Restart Zen after enabling or disabling. Settings: right-click the side rail.",
   "author": "LaithsShadow",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/Luminoctis/Luminoctis-Sine",
   "image": "https://raw.githubusercontent.com/Luminoctis/Luminoctis-Sine/main/assets/screenshots/home.jpg",
   "readme": "https://raw.githubusercontent.com/Luminoctis/Luminoctis-Sine/main/README.md",
@@ -203,5 +203,5 @@
   ],
   "ai": "yes",
   "createdAt": "2026-10-22",
-  "updatedAt": "2026-11-13"
+  "updatedAt": "2026-11-21"
 }
